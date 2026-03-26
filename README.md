@@ -23,6 +23,20 @@ This project demonstrates the deployment of a multi-container voting application
 ## 🏗️ Architecture
 ![Architecture](k8s-kind-voting-app.png)
 
+## 📸 Screenshots
+
+### Pods Running
+![Pods](screenshots/pods.png)
+
+### Services
+![Services](screenshots/services.png)
+
+### Voting App
+![Voting](screenshots/voting-app.png)
+
+### Result App
+![Result](screenshots/result-app.png)
+
 ## 🚀 Deployment Steps
 
 ```bash
