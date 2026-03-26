@@ -37,6 +37,12 @@ This project demonstrates the deployment of a multi-container voting application
 ### Result App
 ![Result](screenshots/result-app.png)
 
+### AWS EC2 Instance
+![EC2](screenshots/ec2.png)
+
+### Deployment Process
+![Deployment](screenshots/deployment.png)
+
 ## 🚀 Deployment Steps
 
 ```bash
