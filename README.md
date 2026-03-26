@@ -19,11 +19,11 @@ This project demonstrates the deployment of a multi-container voting application
 - PostgreSQL (database)
 - Worker Service (.NET)
 
-## 🚀 Deployment Steps
-
-```md
+  ```md
 ## 🏗️ Architecture
 ![Architecture](k8s-kind-voting-app.png)
+
+## 🚀 Deployment Steps
 
 ```bash
 kubectl apply -f k8s-specifications/
